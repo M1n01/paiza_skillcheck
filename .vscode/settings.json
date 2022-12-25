@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "typeinfo": "cpp",
+    "tuple": "cpp",
+    "__tuple": "cpp",
+    "vector": "cpp",
+    "variant": "cpp",
+    "iosfwd": "cpp",
+    "iostream": "cpp",
+    "algorithm": "cpp",
+    "ostream": "cpp"
+  }
+}
